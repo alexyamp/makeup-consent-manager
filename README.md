@@ -1,0 +1,2 @@
+# Makeup Consent Manager template for Google Tag Manager
+Makeup Consent Manager enables Makeup's websites to be compliant with the GDPR and consumer data regulations by collecting and handling consumer consent. More on https://makeup.pl.
