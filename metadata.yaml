@@ -15,5 +15,5 @@
 homepage: "https://makeup.pl/"
 documentation: "https://makeup.pl/regulamin/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 628340d96ba61d38c1a619317fa024ff222307b5
     changeNotes: Initial Version
